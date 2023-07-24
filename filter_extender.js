@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DPO Filter Extender
-// @version      0.1
+// @version      1.0
 // @description  Adds some filter functions to the DPO filter builder
 // @author       Josiah Beckett
 // @require      https://cdnjs.cloudflare.com/ajax/libs/arrive/2.4.1/arrive.min.js
